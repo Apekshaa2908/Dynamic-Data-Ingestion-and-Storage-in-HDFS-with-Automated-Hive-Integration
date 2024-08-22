@@ -17,7 +17,8 @@ The task involves fetching data from a specified link, storing it in HDFS, and c
 
 **Validate Data Integrity:** To ensure everything is correct, I’ll run a SELECT query in Hive to view and validate the loaded data.
 
-**Automate the Process: **If needed, I’ll automate the entire process with a script, so future data updates are handled seamlessly.
+**Automate the Process:** I’ll automate the entire process with a script, so future data updates are handled seamlessly.
+
 
 By following the outlined approach, I successfully retrieved the data from the specified link, stored it in HDFS, and created a Hive table for visualization. The data within the Hive table was validated to ensure integrity and correctness. Additionally, a script was implemented to automate future data refreshes, enhancing the efficiency of the process.
 
